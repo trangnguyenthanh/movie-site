@@ -7,7 +7,7 @@ import axios from 'axios';
 import MoiveDetails from './pages/MoiveDetails'
 import NowPlaying from './pages/NowPlaying'
 import TopRated from './pages/TopRated'
-
+// interface
 interface Movie {
     id: number,
     title: string,
